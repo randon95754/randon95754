@@ -4,7 +4,11 @@
 
 Sou estudante de **Tecnologia da Informação na UFRN**, apaixonado por construir soluções inteligentes e eficientes para o ecossistema Web. Atualmente, foco na transição para arquiteturas mais robustas e organizadas.
 
+
+
 ---
+
+
 
 ### 🚀 Sobre Mim
 - 🎓 Estudante de TI na **Universidade Federal do Rio Grande do Norte**.
@@ -24,12 +28,11 @@ Sou estudante de **Tecnologia da Informação na UFRN**, apaixonado por construi
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
----
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=randon95754&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ---
+
+
 
 ### 📫 Como me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/randoonnn)
